@@ -6,10 +6,15 @@ public class CreateTest {
 	//qweryugfygffvb
 	@Test
 	public void create() {
-		
-		
-		
-		
+
+		System.out.println("----created----");
+		System.out.println("qwerusdfbnm");
+		System.out.println("new");
+	}
+	
+	@Test
+	public void create222222() {
+
 		System.out.println("----created----");
 		System.out.println("qwerusdfbnm");
 		System.out.println("new");
