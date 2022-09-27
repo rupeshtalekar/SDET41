@@ -16,5 +16,7 @@ public class CreateTest {
 	{
 		System.out.println("------new update-----");
 	}
-//qwerty
+public void demo() {
+	System.out.println("new");
+}
 }
