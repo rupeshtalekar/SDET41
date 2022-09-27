@@ -9,7 +9,7 @@ public class CreateTest {
 		System.out.println("----created----");
 		System.out.println("qwerusdfbnm");
 		System.out.println("new");
-		System.out.println("new");
+		//System.out.println("new");
 		System.out.println("new");
 		System.out.println("new");
 		
