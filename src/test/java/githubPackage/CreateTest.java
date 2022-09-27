@@ -14,19 +14,16 @@ public class CreateTest {
 		System.out.println("new");
 		
 	}
-	
-	public void update() {
+	@Test
+	public void update1() {
 		System.out.println("---updated---");
 		
 	}
-	public void newupdate() {
-		System.out.println("------new update-----");
-	}
-	public void newupdated() 
-	{
-		System.out.println("------new update-----");
-	}
-public void demo() {
-	System.out.println("new");
 }
-}
+/*
+ * public void update() { System.out.println("---updated---");
+ * 
+ * } public void newupdate() { System.out.println("------new update-----"); }
+ * public void newupdated() { System.out.println("------new update-----"); }
+ * public void demo() { System.out.println("new"); } }
+ */
