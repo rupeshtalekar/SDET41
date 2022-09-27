@@ -12,5 +12,9 @@ public class CreateTest {
 	public void update() {
 		System.out.println("---updated---");
 	}
+	public void newupdated() 
+	{
+		System.out.println("------new update-----");
+	}
 
 }
