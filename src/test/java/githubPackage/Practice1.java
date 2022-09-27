@@ -11,6 +11,10 @@ public class Practice1 {
 	@Test
 	public void homepage() {
 		System.out.println("-----Welcome to homepage-----------");
+		
+	}
+	public void contact() {
+		System.out.println("---Welcome to contact page----");
 	}
 
 }
