@@ -8,5 +8,9 @@ public class CreateTest {
 	public void create() {
 		System.out.println("----created----");
 	}
+	
+	public void update() {
+		System.out.println("---updated---");
+	}
 
 }
