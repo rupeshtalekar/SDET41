@@ -16,5 +16,11 @@ public class CreateTest {
 	public void newupdate() {
 		System.out.println("------new update-----");
 	}
-
+	public void newupdated() 
+	{
+		System.out.println("------new update-----");
+	}
+public void demo() {
+	System.out.println("new");
+}
 }
